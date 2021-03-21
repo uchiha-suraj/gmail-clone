@@ -1,3 +1,17 @@
+## gmail-clone:
+To build this clone I've used >>>>>>
+1. react
+2. redux
+3. material-ui
+4. react-router
+5. cloud-firestore
+6. Google authentication
+and 7. Deploy using firebase
+
+project link >>>> (https://clone-49731.web.app/)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
