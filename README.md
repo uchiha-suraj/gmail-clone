@@ -8,7 +8,7 @@ To build this clone I've used >>>>>>
 6. Google authentication
 and 7. Deploy using firebase
 
-project link >>>> (https://clone-49731.web.app/)
+project link >>>> https://clone-49731.web.app/
 
 
 
