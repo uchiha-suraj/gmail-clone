@@ -8,12 +8,14 @@
  
 
 ## Firebase link of this project:  
-   ### See the project here >>>👉   https://fir-96c4e.web.app/
+   ### See the project here >>>👉   https://clone-49731.web.app/
 
 ## Key Features:
 
-    🟢 Fully responsive clean UI.
-    🟢 Google like search functionality.
+    🟢 Fully functional login and logout feature powered by Google Authentication.
+    🟢 slick looking Gmail like UI.
+    🟢 Compose mail with mailbox (not functional).
+
   
   ### Google Authentication:
   
@@ -33,14 +35,18 @@
 
     🔷  React => Entire front-end design of this app is made by Reactjs.
 
-    🔷  Flex-box => used flexbox.
+    🔷  React-router => to navigate among various components. 
 
-    🔷  React-router => to navigate among views of various components.
+    🔷 Flex-box => used flexbox in CSS.
 
-    🔷  API => google custom search api.
+    🔷 Material-UI => I've used Material-UI to style this application.
+
+    🔷 React hook => for form validation in React.
+
+    🔷 Firebase-authentication => for Google authentication.
 
     🔷  Firebase => to deploy the app
-    
+
     
   **[⬆ Back to Top](#gmail-clone)**
 
