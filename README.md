@@ -1,82 +1,46 @@
-## gmail-clone:
-To build this clone I've used >>>>>>
-1. react
-2. redux
-3. material-ui
-4. react-router
-5. cloud-firestore
-6. Google authentication
-and 7. Deploy using firebase
+# GMAIL-CLONE
 
-project link >>>> https://clone-49731.web.app/
+![Demo](https://user-images.githubusercontent.com/46050946/122208292-bf181000-cec0-11eb-936c-91b229eba259.png)
 
+### 1. Firebase link of this project
+### 2. [Key Features](#key-features) 
+### 3. [Technologies I've used](#technologies-ive-used)
+ 
 
+## Firebase link of this project:  
+   ### See the project here >>>👉   https://fir-96c4e.web.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+## Key Features:
 
-## Available Scripts
+    🟢 Fully responsive clean UI.
+    🟢 Google like search functionality.
+  
+  ### Google Authentication:
+  
+  [![Demo](https://user-images.githubusercontent.com/46050946/122208292-bf181000-cec0-11eb-936c-91b229eba259.png)](https://user-images.githubusercontent.com/46050946/122208750-554c3600-cec1-11eb-9d76-5368f2fed830.mp4)
+  
+  ### Build Showcase:
+  
+  [![Demo](https://user-images.githubusercontent.com/46050946/122208292-bf181000-cec0-11eb-936c-91b229eba259.png)](https://user-images.githubusercontent.com/46050946/122209536-41550400-cec2-11eb-87e5-0c1259273cfc.mp4)
+  
+  ### Compose Feature:
+  
+  [![Demo](https://user-images.githubusercontent.com/46050946/122208292-bf181000-cec0-11eb-936c-91b229eba259.png)](https://user-images.githubusercontent.com/46050946/122210052-d3f5a300-cec2-11eb-9a9e-7ba18f85fd16.mp4)  
+  
+  **[⬆ Back to Top](#gmail-clone)**
 
-In the project directory, you can run:
+## Technologies I've used:
 
-### `npm start`
+    🔷  React => Entire front-end design of this app is made by Reactjs.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+    🔷  Flex-box => used flexbox.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+    🔷  React-router => to navigate among views of various components.
 
-### `npm test`
+    🔷  API => google custom search api.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+    🔷  Firebase => to deploy the app
+    
+    
+  **[⬆ Back to Top](#gmail-clone)**
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
