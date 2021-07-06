@@ -33,19 +33,19 @@
 
 ## Technologies I've used:
 
-    🔷  React => Entire front-end design of this app is made by Reactjs.
+    🔷 React => Entire front-end design of this app is made by Reactjs.
 
-    🔷  React-router => to navigate among various components. 
+    🔷 React-router => to navigate among various components. 
 
     🔷 Flex-box => used flexbox in CSS.
 
     🔷 Material-UI => I've used Material-UI to style this application.
 
-    🔷 React hook => for form validation in React.
+    🔷 React-hook-form => for form validation in React.
 
     🔷 Firebase-authentication => for Google authentication.
 
-    🔷  Firebase => to deploy the app
+    🔷 Firebase => to deploy the app
 
     
   **[⬆ Back to Top](#gmail-clone)**
