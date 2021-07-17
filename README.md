@@ -45,7 +45,7 @@
 
     🔷 Firebase-authentication => for Google authentication.
 
-    🔷 Firebase => to deploy the app
+    🔷 Firebase => to deploy the app  
 
     
   **[⬆ Back to Top](#gmail-clone)**
